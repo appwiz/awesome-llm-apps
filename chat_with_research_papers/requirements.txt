@@ -3,3 +3,5 @@ phidata
 arxiv
 openai
 pypdf
+streamlit_chat
+ollama

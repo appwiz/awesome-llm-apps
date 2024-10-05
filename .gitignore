@@ -1,6 +1,2 @@
 .vscode/
-chat_with_pdf/bin
-chat_with_pdf/lib
-chat_with_pdf/etc
-chat_with_pdf/share
-pyvenv.cfg
+
